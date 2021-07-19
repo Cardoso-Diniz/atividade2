@@ -1,0 +1,16 @@
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.exe
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.deps.json
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.runtimeconfig.json
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.runtimeconfig.dev.json
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.dll
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\ref\logo.dll
+C:\Users\Dev\Desktop\cardoso\logo\bin\Debug\net5.0\logo.pdb
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.csprojAssemblyReference.cache
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.AssemblyInfoInputs.cache
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.AssemblyInfo.cs
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.dll
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\ref\logo.dll
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.pdb
+C:\Users\Dev\Desktop\cardoso\logo\obj\Debug\net5.0\logo.genruntimeconfig.cache
